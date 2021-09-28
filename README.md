@@ -8,7 +8,7 @@ Based on the data provided for Kickstart analysis, it is needed to used Excel to
 - First, it was generated a linear chart for “Theaters” per month, identifying the quantity ids per outcome (successful, failed and canceled). 
 - ![Theater_Outcomes_vs_Launch](https://github.com/Jcreye75/kickstarter-analysis/blob/c9d7c9db6bbfa63772f01b0c17936de8ba5d18c8/resources/Outcomes%20Based%20on%20Goal.png) 
 - Secondly, it was generated a linear chart for “Plays” per Goal amount categorization (12 different dollar amount ranges), identifying the percentage that represent per each range those successful, those which failed and those which were cancelled. 
-- ![Outcomes Based on Goal](resources/ Outcomes Based on Goal.png)
+- ![Outcomes Based on Goal](https://github.com/Jcreye75/kickstarter-analysis/blob/c9d7c9db6bbfa63772f01b0c17936de8ba5d18c8/resources/Outcomes%20Based%20on%20Goal.png)
 
 ### Analysis of Outcomes Based on Launch Date
 Best outcome brought to theater occurs from May to August.
