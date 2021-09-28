@@ -5,8 +5,10 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ### Purpose
 Based on the data provided for Kickstart analysis, it is needed to used Excel tools to provide analysis to Louise and comments on how different campaigns fared in relation to their launch date and their funding goals.
 ## Analysis and Challenges
-- First, it was generated a linear chart for “Theaters” per month, identifying the quantity ids per outcome (successful, failed and canceled). ![ Theater_Outcomes_vs_Launch](resources/Outcomes Based on Goal.png) 
-- Secondly, it was generated a linear chart for “Plays” per Goal amount categorization (12 different dollar amount ranges), identifying the percentage that represent per each range those successful, those which failed and those which were cancelled. ![ Outcomes Based on Goal](Documents/Bootcamp/Module_1/resources/ Outcomes Based on Goal.png)
+- First, it was generated a linear chart for “Theaters” per month, identifying the quantity ids per outcome (successful, failed and canceled). 
+![ Theater_Outcomes_vs_Launch](resources/Outcomes Based on Goal.png) 
+- Secondly, it was generated a linear chart for “Plays” per Goal amount categorization (12 different dollar amount ranges), identifying the percentage that represent per each range those successful, those which failed and those which were cancelled. 
+![ Outcomes Based on Goal](resources/ Outcomes Based on Goal.png)
 
 ### Analysis of Outcomes Based on Launch Date
 Best outcome brought to theater occurs from May to August.
