@@ -6,7 +6,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 Based on the data provided for Kickstart analysis, it is needed to used Excel tools to provide analysis to Louise and comments on how different campaigns fared in relation to their launch date and their funding goals.
 ## Analysis and Challenges
 - First, it was generated a linear chart for “Theaters” per month, identifying the quantity ids per outcome (successful, failed and canceled). 
-- ![Theater_Outcomes_vs_Launch](resources/Outcomes Based on Goal.png) 
+- ![Theater_Outcomes_vs_Launch](https://github.com/Jcreye75/kickstarter-analysis/blob/c9d7c9db6bbfa63772f01b0c17936de8ba5d18c8/resources/Outcomes%20Based%20on%20Goal.png) 
 - Secondly, it was generated a linear chart for “Plays” per Goal amount categorization (12 different dollar amount ranges), identifying the percentage that represent per each range those successful, those which failed and those which were cancelled. 
 - ![Outcomes Based on Goal](resources/ Outcomes Based on Goal.png)
 
